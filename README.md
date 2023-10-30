@@ -53,6 +53,12 @@ git clone [리포지터리 URL]
 ## 라이선스
 - 이 프로젝트는 MIT 라이선스 하에 배포됩니다. 자세한 내용은 LICENSE 파일을 참조하세요.
 
+## 프로젝트 내용
+### 2023
+- Oct
+  - 5주차
+    - [Reactive Programming](https://github.com/Steadytudy/WeeklySession/blob/main/2023/Oct/5%EC%A3%BC%EC%B0%A8/%5B%EA%B9%80%EA%B2%BD%ED%95%9C%5DReactive%20Programming.md)
+
 ## 저자(Github 링크)
 - 김경한 : [Github링크](https://github.com/rlarudgkswkd)
 - 김동현 : [Github링크](https://github.com/dhkim1522)
