@@ -32,7 +32,7 @@ git clone [리포지터리 URL]
 - sessions 디렉토리의 각 세션 폴더에는 발표 자료, 데모 코드, 연습 문제 또는 관련 리소스가 포함되어야 합니다.
 
 ### 4. 발표 스케줄을 정합니다.
-세션의 발표 스케줄을 schedule.md 파일에 작성합니다.
+- 세션의 발표 스케줄을 schedule.md 파일에 작성합니다.
 
 ### 5. 세션을 진행합니다.
 - 정해진 날짜에 세션을 진행하고 지식을 공유합니다.
@@ -54,5 +54,5 @@ git clone [리포지터리 URL]
 - 이 프로젝트는 MIT 라이선스 하에 배포됩니다. 자세한 내용은 LICENSE 파일을 참조하세요.
 
 ## 저자(Github 링크)
-- 김경한 : 
-- 김동현 : 
+- 김경한 : [Github링크](https://github.com/rlarudgkswkd)
+- 김동현 : [Github링크](https://github.com/dhkim1522)
