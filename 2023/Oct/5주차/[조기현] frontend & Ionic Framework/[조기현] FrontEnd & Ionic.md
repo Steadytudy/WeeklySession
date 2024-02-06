@@ -1,6 +1,6 @@
 # 프론트엔드 개발자라면..?
 
-![Untitled](%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%86%AB%E1%84%90%E1%85%B3%E1%84%8B%E1%85%A6%E1%86%AB%E1%84%83%E1%85%B3%20%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF%E1%84%8C%E1%85%A1%E1%84%85%E1%85%A1%E1%84%86%E1%85%A7%E1%86%AB%20bc8966af11e24f31af94753799a1cc3c/Untitled.png)
+<img width="306" alt="Untitled" src="https://github.com/Steadytudy/WeeklySession/assets/127191624/a883f2a5-0547-424e-ba29-0c629087207b">
 
 ## 내가 Frontend 개발자라면  웹 앱 둘다 알아야 한다
 
@@ -14,42 +14,42 @@
 
 - ‘네이티브 앱(Native APP)’이란 모바일 기기에 최적화된 네이티브 언어로 개발된 앱을 뜻합니다. 국가별로 언어가 다르듯, 모바일 운영체제도 개발을 위해 각기 다른 언어를 사용해야 합니다. 안드로이드 운영체제의 대표적인 네이티브 언어는 코틀린(Kotlin) 또는 자바(Java)이며, iOS는 스위프트(Swift) 또는 오브젝티브 C(Objective C)이죠. 해당 언어를 기반으로 각 모바일의 운영체제에 딱 맞는 앱을 개발하면 그것이 네이티브 앱입니다.
 
-![Untitled](%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%86%AB%E1%84%90%E1%85%B3%E1%84%8B%E1%85%A6%E1%86%AB%E1%84%83%E1%85%B3%20%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF%E1%84%8C%E1%85%A1%E1%84%85%E1%85%A1%E1%84%86%E1%85%A7%E1%86%AB%20bc8966af11e24f31af94753799a1cc3c/Untitled%201.png)
+<img width="599" alt="Untitled 1" src="https://github.com/Steadytudy/WeeklySession/assets/127191624/fc74aad9-ea13-4784-b983-7cbd6c74fe31">
 
 - 예를들어 네이티브 앱은~
 
-![Untitled](%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%86%AB%E1%84%90%E1%85%B3%E1%84%8B%E1%85%A6%E1%86%AB%E1%84%83%E1%85%B3%20%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF%E1%84%8C%E1%85%A1%E1%84%85%E1%85%A1%E1%84%86%E1%85%A7%E1%86%AB%20bc8966af11e24f31af94753799a1cc3c/Untitled%202.png)
+<img width="565" alt="Untitled 2" src="https://github.com/Steadytudy/WeeklySession/assets/127191624/2edb1239-45d2-44f7-8c49-576a3deb998a">
 
 ### 비용이 저렴하고, 업데이트가 쉬운, 모바일 웹 앱(Web APP)
 
 - 네이티브 앱처럼 보이고, 기능 또한 앱과 동일하게 구현되지만, 웹 기술을 활용하여 만들어진 앱을 ‘웹 앱(Wed APP)’이라고 합니다. 네이티브 앱과 달리 웹 앱은 웹 기반의 HTML, CSS, Javascript 등을 활용하며, 별도의 앱 파일을 설치하지 않고 인터넷 브라우저를 기반으로 작동됩니다.
 
-![Untitled](%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%86%AB%E1%84%90%E1%85%B3%E1%84%8B%E1%85%A6%E1%86%AB%E1%84%83%E1%85%B3%20%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF%E1%84%8C%E1%85%A1%E1%84%85%E1%85%A1%E1%84%86%E1%85%A7%E1%86%AB%20bc8966af11e24f31af94753799a1cc3c/Untitled%203.png)
+<img width="659" alt="Untitled 3" src="https://github.com/Steadytudy/WeeklySession/assets/127191624/6edcb220-7519-4ccb-ad2f-0097f431a35b">
 
 - 예를들어 모바일 웹 앱은~
 
-![Untitled](%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%86%AB%E1%84%90%E1%85%B3%E1%84%8B%E1%85%A6%E1%86%AB%E1%84%83%E1%85%B3%20%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF%E1%84%8C%E1%85%A1%E1%84%85%E1%85%A1%E1%84%86%E1%85%A7%E1%86%AB%20bc8966af11e24f31af94753799a1cc3c/Untitled%204.png)
+<img width="808" alt="Untitled 4" src="https://github.com/Steadytudy/WeeklySession/assets/127191624/6264e722-dd27-4fbb-9812-ea48efc6f635">
 
 ### 하이브리드 앱(**Hybrid** APP)
 
 - ‘하이브리드 앱(Hybrid APP)’은 네이티브 앱과 웹 앱의 개발 방식을 모두 사용합니다. 앱의 화면이나 기능 등 콘텐츠 영역은 웹 기반으로 제작하고 겉모습은 앱 마켓 등록과 설치를 위해 네이티브 앱으로 포장한 것이죠. 두 가지 개발 방식을 이용하므로 웹과 앱의 API를 모두 사용할 수 있습니다. 따라서 웹 앱에서는 불가능 했던 디바이스 자체 기능에 접근할 수 있습니다.
 
-![Untitled](%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%86%AB%E1%84%90%E1%85%B3%E1%84%8B%E1%85%A6%E1%86%AB%E1%84%83%E1%85%B3%20%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF%E1%84%8C%E1%85%A1%E1%84%85%E1%85%A1%E1%84%86%E1%85%A7%E1%86%AB%20bc8966af11e24f31af94753799a1cc3c/Untitled%205.png)
+<img width="647" alt="Untitled 5" src="https://github.com/Steadytudy/WeeklySession/assets/127191624/53738fa2-f00e-4e18-a60a-2d654aff39f5">
 
 - 예를들어 하이브리드 앱은~
 
-![Untitled](%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%86%AB%E1%84%90%E1%85%B3%E1%84%8B%E1%85%A6%E1%86%AB%E1%84%83%E1%85%B3%20%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF%E1%84%8C%E1%85%A1%E1%84%85%E1%85%A1%E1%84%86%E1%85%A7%E1%86%AB%20bc8966af11e24f31af94753799a1cc3c/Untitled%206.png)
+<img width="586" alt="Untitled 6" src="https://github.com/Steadytudy/WeeklySession/assets/127191624/05800748-9709-48ed-aace-7d0d60251fe1">
 
 ### 3가지 앱의 대한 비교 및 자료 출저
 
-![Untitled](%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%86%AB%E1%84%90%E1%85%B3%E1%84%8B%E1%85%A6%E1%86%AB%E1%84%83%E1%85%B3%20%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF%E1%84%8C%E1%85%A1%E1%84%85%E1%85%A1%E1%84%86%E1%85%A7%E1%86%AB%20bc8966af11e24f31af94753799a1cc3c/Untitled%207.png)
+<img width="805" alt="Untitled 7" src="https://github.com/Steadytudy/WeeklySession/assets/127191624/0e34f94d-e4f5-47b6-aff9-8b8072d3e5d4">
 
 - 자료 출처
     - [https://blog.hectodata.co.kr/app_kinds/](https://blog.hectodata.co.kr/app_kinds/)
 
 ## 하이브리드 개발 프레임워크 Ionic!
 
-![Untitled](%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%86%AB%E1%84%90%E1%85%B3%E1%84%8B%E1%85%A6%E1%86%AB%E1%84%83%E1%85%B3%20%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF%E1%84%8C%E1%85%A1%E1%84%85%E1%85%A1%E1%84%86%E1%85%A7%E1%86%AB%20bc8966af11e24f31af94753799a1cc3c/Untitled%208.png)
+![Untitled 8](https://github.com/Steadytudy/WeeklySession/assets/127191624/1c47d430-173b-49d0-b482-f49773dd0110)
 
 ### 하이브리드 앱 개발 프레임워크, ‘아이오닉 프레임워크(Ionic Framework)’
 
@@ -62,12 +62,12 @@
 - [일단] 네이버 클라우드 플랫폼에서 하이브리드 아이오닉 프레임워크를 선택
 - ionic framework 기반으로 작업
 
-![Untitled](%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%86%AB%E1%84%90%E1%85%B3%E1%84%8B%E1%85%A6%E1%86%AB%E1%84%83%E1%85%B3%20%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF%E1%84%8C%E1%85%A1%E1%84%85%E1%85%A1%E1%84%86%E1%85%A7%E1%86%AB%20bc8966af11e24f31af94753799a1cc3c/Untitled%209.png)
+<img width="739" alt="Untitled 9" src="https://github.com/Steadytudy/WeeklySession/assets/127191624/f77ba208-ba27-49a7-a52e-62dacabf952d">
 
 - 네이버 클라우드 플랫폼에서 ionic을 선택한 이유? 가장 강점으로는 일단 하이브리드! 대부분 웹 개발 경험을 가진 개발자를 더 만나기 쉽고 웹 베이스 프로그래밍 기술을 활용하면서도 크로스 플랫폼 적용 관점에서 볼때 하이브리드 앱 개발 방식이 매우 유리하다고 생각했다고 합니다 네이버가
 - 사진을 으로 보면 하이브리드 앱은 모든걸 전부 호환해 준다 대박
 
-![Untitled](%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%86%AB%E1%84%90%E1%85%B3%E1%84%8B%E1%85%A6%E1%86%AB%E1%84%83%E1%85%B3%20%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF%E1%84%8C%E1%85%A1%E1%84%85%E1%85%A1%E1%84%86%E1%85%A7%E1%86%AB%20bc8966af11e24f31af94753799a1cc3c/Untitled%2010.png)
+<img width="705" alt="Untitled 10" src="https://github.com/Steadytudy/WeeklySession/assets/127191624/9837f0ed-d89b-4629-9e16-b263de1c549b">
 
 ### ‘아이오닉 프레임워크(Ionic Framework) 장점’
 
@@ -76,12 +76,12 @@
     - 링크 [https://ionicframework.com/](https://ionicframework.com/)
 - 수많은 UI 구성요소 제공
 
-![Untitled](%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%86%AB%E1%84%90%E1%85%B3%E1%84%8B%E1%85%A6%E1%86%AB%E1%84%83%E1%85%B3%20%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF%E1%84%8C%E1%85%A1%E1%84%85%E1%85%A1%E1%84%86%E1%85%A7%E1%86%AB%20bc8966af11e24f31af94753799a1cc3c/Untitled%2011.png)
+<img width="793" alt="Untitled 11" src="https://github.com/Steadytudy/WeeklySession/assets/127191624/9d0b9242-37b7-43b2-a867-c1f1b318db86">
 
 - 크로스 플랫폼 빌드
     - iOS, 안드로이드 뿐만 아니라 다양한 플랫폼을 지원한다, 한 번 코드를 작성하면 별다른 수정 없이도 다른 플랫폼으로 빌드가 가능 최대 장점
 
-![Untitled](%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%86%AB%E1%84%90%E1%85%B3%E1%84%8B%E1%85%A6%E1%86%AB%E1%84%83%E1%85%B3%20%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF%E1%84%8C%E1%85%A1%E1%84%85%E1%85%A1%E1%84%86%E1%85%A7%E1%86%AB%20bc8966af11e24f31af94753799a1cc3c/Untitled%2012.png)
+<img width="595" alt="Untitled 12" src="https://github.com/Steadytudy/WeeklySession/assets/127191624/847894b4-b8b8-4f5a-a7d2-c71db1aa8efe">
 
 ### 이제 만들어 보자..
 
